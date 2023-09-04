@@ -1,0 +1,38 @@
+{
+	"name": "gulp-minimal",
+	"version": "",
+	"description": "",
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"babel-core": "^6.26.3",
+		"babel-preset-env": "^1.7.0",
+		"browser-sync": "^2.29.3",
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "^8.0.0",
+		"gulp-babel": "^7.0.1",
+		"gulp-changed": "^4.0.3",
+		"gulp-clean": "^0.4.0",
+		"gulp-csso": "^4.0.1",
+		"gulp-group-css-media-queries": "^1.2.2",
+		"gulp-htmlclean": "^2.7.22",
+		"gulp-imagemin": "^7.1.0",
+		"gulp-jsmin": "^0.1.5",
+		"gulp-notify": "^4.0.0",
+		"gulp-plumber": "^1.2.1",
+		"gulp-pug": "^5.0.0",
+		"gulp-sass": "^5.1.0",
+		"gulp-sourcemaps": "^3.0.0",
+		"gulp-webp": "^4.0.1",
+		"gulp-webp-css": "^1.1.0",
+		"gulp-webp-html": "^1.0.2",
+		"sass": "^1.66.1"
+	},
+	"browserslist": [
+		"last 5 versions"
+	],
+
+	"babel": {
+		"presets": ["babel-preset-env"]
+	}
+}
