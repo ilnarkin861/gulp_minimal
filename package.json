@@ -26,13 +26,14 @@
 		"gulp-webp": "^4.0.1",
 		"gulp-webp-css": "^1.1.0",
 		"gulp-webp-html": "^1.0.2",
-		"sass": "^1.66.1"
+		"sass": "^1.77.8"
 	},
 	"browserslist": [
 		"last 5 versions"
 	],
-
 	"babel": {
-		"presets": ["babel-preset-env"]
+		"presets": [
+			"babel-preset-env"
+		]
 	}
 }
